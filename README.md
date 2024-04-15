@@ -6,3 +6,11 @@ PixelDerby has brought to life a simple and fun horse-betting system with a comp
 The game features include bankroll management, where players start with $1000 and must strategically manage their funds to continue participating in races; detailed horse statistics to aid players in making educated bets; a bet history section for users to view their previous bets and analyze their performance; and a visually engaging representation of horse races, adding excitement to the betting experience. 
 
 PixelDerby was a project filled with challenges, from creating user-friendly and appealing UI to implementing proper, fair, and engaging betting algorithms. Also, due justice needed to be done to the game mechanics associated with the very dynamics of horse racing.
+
+LINUX COMMANDS TO RUN THE PROTOTYPE:
+"qmake startRace.pro"
+"make"
+"./startRace"
+
+If ./startRace doesn't work: delete all executables, compile, find the target in the makeFile
+If using WSL: run command: "export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2}'):0"
