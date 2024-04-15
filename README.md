@@ -7,7 +7,7 @@ The game features include bankroll management, where players start with $1000 an
 
 PixelDerby was a project filled with challenges, from creating user-friendly and appealing UI to implementing proper, fair, and engaging betting algorithms. Also, due justice needed to be done to the game mechanics associated with the very dynamics of horse racing.
 
-LINUX COMMANDS TO RUN THE PROTOTYPE:
+LINUX COMMANDS:
 "qmake startRace.pro"
 "make"
 "./startRace"
