@@ -1,5 +1,5 @@
 # Pixel-Derby
-Horse Betting Game
+Horse Betting Game Video Demo: https://youtu.be/j1opMk3vBWw
 
 PixelDerby has brought to life a simple and fun horse-betting system with a completely custom user interface, made to give enjoyment to its users. This is the main intent of the project, to come up with a very easily navigable, user-friendly, interactive game of horse betting, which can provide one with the essence of both strategies coupled with entertainment. We aimed to create a distinctive UI that enhances the gaming experience and a robust betting system that allows players to make informed decisions. The project was driven by our shared passion to create a product we would enjoy using ourselves and to develop our skills in UI development and game design. Qt Framework and C++ programming language were used in developing the game.
 
